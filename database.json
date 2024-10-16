@@ -1,0 +1,367 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Jane",
+      "course": "Python FullStack",
+      "status": "Ongoing"
+    },
+    {
+      "id": "3",
+      "name": "Affleck",
+      "course": "Python FullStack",
+      "status": "ongoing"
+    },
+    {
+      "id": "4",
+      "name": "Odinson",
+      "course": "MERN FullStack",
+      "status": "started"
+    },
+    {
+      "id": "5",
+      "name": "Tony",
+      "course": "MERN FullStack",
+      "status": "completed"
+    },
+    {
+      "id": "6",
+      "name": "Steve",
+      "course": "Python FullStack",
+      "status": "completed"
+    },
+    {
+      "id": "7",
+      "name": "Clint",
+      "course": "Java FullStack",
+      "status": "started"
+    },
+    {
+      "id": "8",
+      "name": "RomanOff",
+      "course": "MERN FullStack",
+      "status": "Ongoing"
+    },
+    {
+      "id": "477d",
+      "name": "Rocket",
+      "course": "Java",
+      "status": "Started"
+    },
+    {
+      "id": "f9e6",
+      "name": "John",
+      "course": "Java FullStack",
+      "status": "Ongoing"
+    }
+  ],
+  "services": [
+    {
+      "title": "Daily & Weekly Car Rentals",
+      "description": [
+        "Flexible short-term car rental options with a wide range of vehicles",
+        "from economy to luxury",
+        "at competitive rates."
+      ],
+      "id": "935d"
+    },
+    {
+      "title": "Long-Term Rentals",
+      "description": [
+        "Cost-effective solutions for extended rentals with discounts for monthly or longer durations",
+        " offering the convenience of having a vehicle without ownership."
+      ],
+      "id": "4c0e"
+    },
+    {
+      "title": "Corporate Rentals",
+      "description": [
+        "Tailored packages and competitive rates for businesses and employees",
+        " with priority customer support for seamless corporate travel."
+      ],
+      "id": "6ee4"
+    },
+    {
+      "title": "Airport Pickup & Drop-off",
+      "description": [
+        "Convenient car delivery and return services at major airports",
+        " allowing travelers to avoid waiting and start their journey right away."
+      ],
+      "id": "d771"
+    },
+    {
+      "title": "Luxury & Exotic Car Rentals",
+      "description": [
+        "Premium luxury and exotic cars for special occasions or business events",
+        " offering performance, style, and comfort."
+      ],
+      "id": "b19c"
+    },
+    {
+      "title": "Chauffeur Services",
+      "description": [
+        "Professional chauffeur services for weddings",
+        " VIP events",
+        "  corporate travel",
+        " providing a first-class experience with trained drivers."
+      ],
+      "id": "5512"
+    },
+    {
+      "title": "One-Way Rentals",
+      "description": [
+        "Travel without the hassle of returning the car to the original location by opting for a one-way rental",
+        " offering maximum flexibility."
+      ],
+      "id": "adc6"
+    },
+    {
+      "title": "Vehicle Protection Plans",
+      "description": [
+        "Comprehensive protection plans for peace of mind during your rental",
+        " covering potential incidents and offering various levels of coverage."
+      ],
+      "id": "6c32"
+    },
+    {
+      "title": "24/7 Customer Support",
+      "description": [
+        "Round-the-clock support for booking inquiries or assistance during your rental period",
+        "ensuring a hassle-free experience on the road."
+      ],
+      "id": "203e"
+    }
+  ],
+  "cars": [
+    {
+      "car": "Mercedes-Benz S-Class",
+      "type": "Sedan",
+      "imageData": "./practice/src/Assets/mercedis.jpg",
+      "safety_features": [
+        "Active Brake Assist",
+        "Blind Spot Monitoring",
+        "Lane Keeping Assist",
+        "360-Degree Camera",
+        "Adaptive Cruise Control",
+        "Automatic Emergency Braking"
+      ],
+      "other_features": [
+        "Luxury Leather Interior",
+        "Panoramic Sunroof",
+        "Massage Seats",
+        "Burmester Surround Sound System",
+        "Ambient Lighting",
+        "Heated and Ventilated Seats"
+      ],
+      "price_per_day": "₹20,000",
+      "id": "3def"
+    },
+    {
+      "car": "BMW 7 Series",
+      "type": "Sedan",
+      "imageData": "./practice/src/Assets/bmw.jpg",
+      "safety_features": [
+        "Front and Rear Parking Sensors",
+        "Lane Departure Warning",
+        "Collision Mitigation System",
+        "Adaptive Headlights",
+        "Traffic Jam Assist",
+        "Surround View Camera"
+      ],
+      "other_features": [
+        "Gesture Control",
+        "Harman Kardon Sound System",
+        "Rear Executive Lounge Seating",
+        "Wireless Charging",
+        "Heated Steering Wheel",
+        "Quad-Zone Climate Control"
+      ],
+      "price_per_day": "₹19,500",
+      "id": "b2ee"
+    },
+    {
+      "car": "Audi A8",
+      "type": "Sedan",
+      "imageData": "./practice/src/Assets/audi.jpg",
+      "safety_features": [
+        "Audi Pre Sense Front and Rear",
+        "Lane Departure Warning",
+        "Intersection Assist",
+        "Night Vision Assist",
+        "Adaptive Cruise Control",
+        "Rear Cross-Traffic Alert"
+      ],
+      "other_features": [
+        "Valcona Leather Upholstery",
+        "Bang & Olufsen Sound System",
+        "Heads-Up Display",
+        "Matrix LED Headlights",
+        "Executive Rear Seat Package",
+        "Four-Wheel Steering"
+      ],
+      "price_per_day": "₹21,000",
+      "id": "2fd2"
+    },
+    {
+      "car": "Lexus LS",
+      "type": "Sedan",
+      "imageData": "./practice/src/Assets/lexus ls.jpg",
+      "safety_features": [
+        "Lexus Safety System+",
+        "Pedestrian Detection",
+        "Automatic High Beams",
+        "Dynamic Radar Cruise Control",
+        "Lane Tracing Assist",
+        "Parking Assist"
+      ],
+      "other_features": [
+        "Mark Levinson Audio System",
+        "Premium Leather Trim",
+        "12.3-inch Navigation Display",
+        "Air Suspension",
+        "Power Rear Sunshades",
+        "Heated and Cooled Seats"
+      ],
+      "price_per_day": "₹18,500",
+      "id": "7ae3"
+    },
+    {
+      "car": "Porsche Panamera",
+      "type": "Sport Sedan",
+      "imageData": "./practice/src/Assets/porshe.jpg",
+      "safety_features": [
+        "Porsche Active Safe",
+        "Lane Keep Assist",
+        "Traffic Sign Recognition",
+        "Night Vision Assist",
+        "Surround View Cameras",
+        "Collision Prevention Assist"
+      ],
+      "other_features": [
+        "Bose Surround Sound System",
+        "Sport Chrono Package",
+        "Adaptive Air Suspension",
+        "Heated Multifunction Steering Wheel",
+        "14-Way Power Seats",
+        "Panoramic Roof System"
+      ],
+      "price_per_day": "₹22,500",
+      "id": "85e1"
+    },
+    {
+      "car": "Jaguar XJ",
+      "type": "Sedan",
+      "imageData": "./practice/src/Assets/jaguar.jpg",
+      "safety_features": [
+        "Driver Condition Monitor",
+        "Traffic Sign Recognition",
+        "Adaptive Cruise Control",
+        "Emergency Braking",
+        "Blind Spot Assist",
+        "Rear Camera Parking Aid"
+      ],
+      "other_features": [
+        "Meridian Sound System",
+        "Full LED Headlights",
+        "Premium Leather Upholstery",
+        "Electric Rear Window Sunblind",
+        "Heated and Cooled Front and Rear Seats",
+        "Panoramic Glass Roof"
+      ],
+      "price_per_day": "₹17,500",
+      "id": "6107"
+    },
+    {
+      "car": "Tesla Model S",
+      "type": "Electric Sedan",
+      "imageData": "./practice/src/Assets/tesla.jpg",
+      "safety_features": [
+        "Autopilot",
+        "Collision Avoidance Assist",
+        "Lane Departure Warning",
+        "Emergency Braking",
+        "Blind Spot Monitoring",
+        "360-Degree Camera"
+      ],
+      "other_features": [
+        "All-Wheel Drive",
+        "Premium Interior",
+        "15-Inch Touchscreen Display",
+        "Over-the-Air Software Updates",
+        "Air Suspension",
+        "HEPA Air Filtration System"
+      ],
+      "price_per_day": "₹25,000",
+      "id": "ffb2"
+    },
+    {
+      "car": "Maserati Quattroporte",
+      "type": "Luxury Sedan",
+      "imageData": "./practice/src/Assets/maserati.jpg",
+      "safety_features": [
+        "Blind Spot Detection",
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Forward Collision Warning",
+        "Rearview Camera",
+        "Traffic Sign Recognition"
+      ],
+      "other_features": [
+        "Luxurious Leather Upholstery",
+        "Bowers & Wilkins Audio System",
+        "Navigation System",
+        "Heated Seats",
+        "Sport Steering Wheel",
+        "Sunroof"
+      ],
+      "price_per_day": "₹30,000",
+      "id": "22f3"
+    },
+    {
+      "car": "Rolls-Royce Ghost",
+      "type": "Luxury Sedan",
+      "imageData": "./practice/src/Assets/rr.jpg",
+      "safety_features": [
+        "Night Vision Camera",
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Collision Avoidance System",
+        "Active Roll Stabilization",
+        "Park Assist"
+      ],
+      "other_features": [
+        "Customizable Interior",
+        "Starlight Headliner",
+        "Bespoke Audio System",
+        "Four-Zone Climate Control",
+        "Massage Seats",
+        "Rear Privacy Glass"
+      ],
+      "price_per_day": "₹60,000",
+      "id": "eb30"
+    },
+    {
+      "car": "Bentley Continental GT",
+      "type": "Grand Tourer",
+      "imageData": "./practice/src/Assets/bentley.jpg",
+      "safety_features": [
+        "Adaptive Cruise Control",
+        "Lane Assist",
+        "Traffic Sign Recognition",
+        "Collision Mitigation System",
+        "Rear View Camera",
+        "Blind Spot Monitoring"
+      ],
+      "other_features": [
+        "Handcrafted Interior",
+        "Naim for Bentley Sound System",
+        "Heated and Cooled Seats",
+        "Multi-Function Steering Wheel",
+        "Panoramic Sunroof",
+        "All-Wheel Drive"
+      ],
+      "price_per_day": "₹55,000",
+      "id": "4415"
+    }
+  ]
+}
